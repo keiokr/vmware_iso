@@ -2,9 +2,7 @@
 去虚拟化成品系统
 <br><br>
 成品vmware安装文件、替换文件、pc1系统需要上传到云盘才行，太大了上传了，没有开会员，再补充地址：<br>
-用链接克隆多台虚拟机，克隆之后修改电脑信息、然后再激活win10<br>
-<img width="1900" height="1048" alt="image" src="https://github.com/user-attachments/assets/c6df6987-faba-42a1-9e3b-6d59752076de" /><br>
-<img width="1679" height="920" alt="image" src="https://github.com/user-attachments/assets/ead001c7-94bf-4ce8-a829-a61b52ca2c4b" /><br><br>
+
 
 
 一、vmware版本<br>
@@ -41,3 +39,7 @@ win10虚拟机  内置 wegame  主玩天龙八部原始服。<br>
 
 <img width="1679" height="920" alt="image" src="https://github.com/user-attachments/assets/8b0663e0-4b8d-4195-ad8c-bde0a51ac96e" /><br><br>
 
+六、克隆和修改克隆物理信息及系统激活<br>
+用链接克隆多台虚拟机，克隆之后修改电脑信息、然后再激活win10<br>
+<img width="1900" height="1048" alt="image" src="https://github.com/user-attachments/assets/c6df6987-faba-42a1-9e3b-6d59752076de" /><br>
+<img width="1679" height="920" alt="image" src="https://github.com/user-attachments/assets/ead001c7-94bf-4ce8-a829-a61b52ca2c4b" /><br><br>
