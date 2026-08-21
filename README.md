@@ -11,7 +11,7 @@ win10虚拟机  内置 wegame  主玩天龙八部原始服。<br>
 <img width="1916" height="1114" alt="image" src="https://github.com/user-attachments/assets/f1b70e52-428e-4d23-8ee7-2c13d3572140" /><br><br>
 
 二、系统运行内存和cpu使用率。<br>
-1、开机句柄数2W1，cpu 使用率1/%<br>
+1、开机句柄数2W1，cpu 使用率2/%<br>
 <img width="1691" height="931" alt="image" src="https://github.com/user-attachments/assets/0e502635-f615-4da2-85eb-d8278f0d0d67" /><br>
 2、内存使用率460M左右<br>
 <img width="1695" height="935" alt="image" src="https://github.com/user-attachments/assets/6fe84c54-7a08-4b60-bde5-f7a01ba59379" /><br><br>
