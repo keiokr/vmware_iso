@@ -19,6 +19,7 @@ win10虚拟机  内置 wegame  主玩天龙八部原始服。<br>
 <img width="1695" height="935" alt="image" src="https://github.com/user-attachments/assets/6fe84c54-7a08-4b60-bde5-f7a01ba59379" /><br><br>
 
 三、系统去虚拟化程度<br>
+自己做的深度去虚拟化。
 <img width="1915" height="1070" alt="image" src="https://github.com/user-attachments/assets/b155823c-b2cf-4e79-8a4a-14f2d93e2645" /><br>
 
 有2个没过<br>
