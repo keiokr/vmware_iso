@@ -47,7 +47,7 @@ win10虚拟机  内置 wegame  主玩天龙八部原始服。<br>
 <img width="1679" height="920" alt="image" src="https://github.com/user-attachments/assets/ead001c7-94bf-4ce8-a829-a61b52ca2c4b" /><br><br>
 
 7、如果多开虚拟机物理机cpu使用率占用很高<br>
-可以把这个三个ps脚本加载到计划任务。开机自动清理vmware lcx锁，清理系统垃圾，限定vmware总cpu使用个数，现在是8个<br>
+可以把这个三个ps脚本加载到计划任务。开机自动清理vmware lcx锁，清理系统垃圾，不管开几台，就拿开5台虚拟机，也是限定vmware总cpu使用是8个，物理机cpu使用率大于60%，限定为6个<br>
 <img width="1910" height="120" alt="image" src="https://github.com/user-attachments/assets/8ca3e1ec-4953-42fa-bacf-b74da9873a45" /><br><br>
 
 
